@@ -4,7 +4,6 @@ Game sederhana berbasis teks di mana pemain diminta menebak angka yang dipilih s
 
 ## Konsep Permainan
 
-- Komputer akan memilih angka secara acak dalam rentang tertentu (misalnya 1–100).
-- Pemain diminta untuk menebak angka tersebut.
-- Setiap tebakan akan mendapatkan respon: Terlalu kecil, Terlalu besar, atau Tebakan benar.
+- Pemain diminta untuk menyusun angka '1, 2, 3' secara acak untuk menebak angka tersebut.
+- Setiap tebakan akan mendapatkan respon: skor jumlah tebakan salah/benar.
 - Permainan selesai jika pemain berhasil menebak angka yang benar.
